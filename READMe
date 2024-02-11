@@ -7,6 +7,7 @@ Extract it there to see the Database file with .sql which is located in the fold
 Open your phpmyadmin and create a database with name qrcode
 After that click on Import tab on the menu bar of the phpmyadmin environment
 Choose the file qrcode.sql and click on Submit, save or Upload.
+Remember to unzip the phpqrcode.zip file, i.e the PHP QRcode library that will allow the QRcode to generate.
 
 After completion, go to your browser and type localhost/qrcode-gen and enjoy your QR code Generator. for more modifications. Please contact the administrator via Whatsapp on +2349060272272
 
